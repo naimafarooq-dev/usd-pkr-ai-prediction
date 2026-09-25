@@ -367,3 +367,7 @@ Potential improvements include:
 Try the deployed application:
 
 https://usd-pkr-ai-prediction-bykboqvhh8ak5cgvjvub2f.streamlit.app/
+
+## Disclaimer 
+
+This application is a machine learning project developed for educational, research, and portfolio purposes. Predictions are experimental estimates based on available market data and should not be used as financial advice or as a basis for financial decisions.
