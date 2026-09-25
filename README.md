@@ -361,3 +361,9 @@ Potential improvements include:
 * Model drift monitoring
 * Cloud deployment
 * Improved dashboard analytics
+
+## Live Demo 
+
+Try the deployed application:
+
+https://usd-pkr-ai-prediction-bykboqvhh8ak5cgvjvub2f.streamlit.app/
